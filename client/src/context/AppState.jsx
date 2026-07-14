@@ -11,8 +11,8 @@ const AppState = (props) => {
 
 
 
-    const URL="http://localhost:3000/api"
-
+    // const URL="http://localhost:3000/api"
+        const URL="https://myntra-e-commerce-with-razorpay-2.onrender.com/api"
     
 
               ///   theme functionality 
