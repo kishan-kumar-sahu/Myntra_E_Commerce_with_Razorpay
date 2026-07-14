@@ -1,0 +1,14 @@
+   # Dependencies
+
+
+node_modules/
+client/node_modules/
+api/node_modules/
+
+
+
+# Environment Variables
+.env
+client/.env
+api/.env
+
