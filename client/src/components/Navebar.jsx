@@ -91,7 +91,7 @@ const Navebar = () => {
                    
                
                  
-                 src="logo_image/logo.png"
+                 src="/logo_image/logo.png"
                 style={{ width: "100px"  ,  borderRadius: "6px"  }}
                 alt="logo"
               />
@@ -300,7 +300,7 @@ const Navebar = () => {
         <div className="d-flex justify-content-between p-3 border-bottom">
 
           <img
-            src="logo_image/logo.png"
+            src="/logo_image/logo.png"
             style={{ width: "120px" }}
             alt="logo"
           />
