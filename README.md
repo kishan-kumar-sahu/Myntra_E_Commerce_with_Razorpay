@@ -38,9 +38,8 @@ A full-stack E-Commerce web application built using the MERN Stack (MongoDB, Exp
 ## 📂 Project Structure
 
 ```
-## 📂 Project Structure
 
-```text
+
 MERN_E_Commerce/
 │
 ├── client/
@@ -77,7 +76,6 @@ MERN_E_Commerce/
 ├── .gitignore
 ├── README.md
 └── package.json
-```
 ```
 
 ## ⚙️ Installation
