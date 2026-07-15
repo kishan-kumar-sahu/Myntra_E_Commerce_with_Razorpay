@@ -89,8 +89,10 @@ const Navebar = () => {
                    
                  
                    
-                src="https://1000logos.net/wp-content/uploads/2022/08/Myntra-Logo.jpg"
-                style={{ width: "80px"  ,  borderRadius: "6px"  }}
+               
+                 
+                 src="logo_image/logo.png"
+                style={{ width: "100px"  ,  borderRadius: "6px"  }}
                 alt="logo"
               />
             </Link>
@@ -298,8 +300,8 @@ const Navebar = () => {
         <div className="d-flex justify-content-between p-3 border-bottom">
 
           <img
-            src="https://1000logos.net/wp-content/uploads/2022/08/Myntra-Logo.jpg"
-            style={{ width: "50px" }}
+            src="logo_image/logo.png"
+            style={{ width: "120px" }}
             alt="logo"
           />
 
