@@ -38,19 +38,46 @@ A full-stack E-Commerce web application built using the MERN Stack (MongoDB, Exp
 ## 📂 Project Structure
 
 ```
+## 📂 Project Structure
+
+```text
 MERN_E_Commerce/
 │
 ├── client/
 │   ├── public/
+│   │   └── logo_image/
+│   │       └── logo.png
+│   │
 │   ├── src/
+│   │   ├── assets/
+│   │   ├── components/
+│   │   ├── context/
+│   │   ├── pages/
+│   │   ├── styles/
+│   │   ├── App.jsx
+│   │   ├── main.jsx
+│   │   └── index.css
+│   │
+│   ├── package.json
+│   └── vite.config.js
 │
 ├── api/
-│   ├── routes/
+│   ├── config/
 │   ├── controllers/
-│   ├── models/
 │   ├── middleware/
+│   ├── models/
+│   ├── routes/
+│   ├── uploads/
+│   ├── utils/
+│   ├── app.js
+│   ├── server.js
+│   ├── package.json
+│   └── .env
 │
-└── README.md
+├── .gitignore
+├── README.md
+└── package.json
+```
 ```
 
 ## ⚙️ Installation
