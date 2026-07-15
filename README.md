@@ -58,7 +58,7 @@ MERN_E_Commerce/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/kishan-kumar-sahu/Myntra_E_Commerce_with_Razorpay.git
+https://github.com/kishan-kumar-sahu/Myntra_E_Commerce_with_Razorpay
 ```
 
 ### Install Frontend
@@ -74,7 +74,7 @@ npm run dev
 ```bash
 cd api
 npm install
-npm start
+npx nodemon server.js  or  node server.js
 ```
 
 ## 🔑 Environment Variables
@@ -105,15 +105,14 @@ Add screenshots of:
 
 ## 🌐 Live Demo
 
-Frontend:
-(Add your Vercel URL)
+ URl: https://mern-e-commerce-pi-weld.vercel.app/
 
-Backend:
-(Add your Render URL)
+
+
 
 ## 👨‍💻 Author
 
-**Kishan Kumar**
+**Kishan Kumar sahu**
 
 GitHub:
 https://github.com/kishan-kumar-sahu
